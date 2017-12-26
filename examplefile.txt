@@ -3,3 +3,5 @@ owner's content
 contributors content
 
 someone adds commits to owner's repo
+
+contributor adds another feature
